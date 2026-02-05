@@ -1,4 +1,4 @@
-## Machine Learning Emergence (2019-2024)
+# Machine Learning Emergence (2019-2024)
 
 - **Weyn, J.A., Durran, D.R., & Caruana, R. (2019).** _"Can machines learn to predict weather? Using deep learning to predict gridded 500-hPa geopotential height from historical weather data."_ Journal of Advances in Modeling Earth Systems, 11, 2680-2693.
   - Early demonstration of CNNs for weather forecasting; competitive with simple baselines

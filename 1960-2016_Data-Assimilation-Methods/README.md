@@ -1,4 +1,4 @@
-## Data Assimilation Methods (1960-2016)
+# Data Assimilation Methods (1960-2016)
 
 - **Kalman, R.E. (1960).** _"A new approach to linear filtering and prediction problems."_ Journal of Basic Engineering, 82(1), 35-45.
   - Original Kalman filter—foundation for modern data assimilation (though not weather-specific)
