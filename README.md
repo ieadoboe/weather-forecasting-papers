@@ -24,18 +24,18 @@ Contributions are welcome! This bibliography aims to be comprehensive yet focuse
 
 ### What to Contribute
 
-✅ **Missing seminal papers** - Foundational works that influenced the field's trajectory  
-✅ **Key review papers** - Comprehensive surveys that synthesize major developments  
-✅ **Historical corrections** - Fixes to citations, dates, or descriptions  
-✅ **Context improvements** - Better explanations of papers' contributions  
-✅ **New categories** - Suggest additional thematic organization (e.g., "Parameterization Development", "Operational NWP History")
+- **Missing seminal papers** - Foundational works that influenced the field's trajectory
+- **Key review papers** - Comprehensive surveys that synthesize major developments
+- **Historical corrections** - Fixes to citations, dates, or descriptions
+- **Context improvements** - Better explanations of papers' contributions
+- **New categories** - Suggest additional thematic organization (e.g., "Parameterization Development", "Operational NWP History")
 
 ### What NOT to Contribute
 
-❌ Every paper on weather forecasting (this is a _curated_ list, not exhaustive)  
-❌ Textbooks or books (journal articles only)  
-❌ Recent papers without demonstrated impact (wait for citations to accumulate)  
-❌ Tangentially related work (e.g., general climate modeling unless directly relevant to forecasting)
+- Every paper on weather forecasting (this is a _curated_ list, not exhaustive)
+- Textbooks or books (journal articles only)
+- Recent papers without demonstrated impact (wait for citations to accumulate)
+- Tangentially related work (e.g., general climate modeling unless directly relevant to forecasting)
 
 ### How to Contribute
 
